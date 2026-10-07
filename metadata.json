@@ -1,0 +1,6 @@
+{
+  "name": "AR Teknik Rolling Door",
+  "description": "Jasa Pembuatan, Pemasangan & Servis Rolling Door Profesional Otomatis, One Sheet & Industri. Survey Gratis & Bergaransi Resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
