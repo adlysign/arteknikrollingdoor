@@ -6,7 +6,7 @@ export const COMPANY_INFO = {
   legalName: 'CV. AR Teknik Presisi Pratama',
   phone: '+6285647985924',
   whatsapp: '6285647985924',
-  whatsappSecondary: '6285647985924',
+  whatsappSecondary: '085647985924',
   email: 'info@arteknikrollingdoor.id',
   address: 'Jl. Daan Mogot KM 14 No. 45, Kalideres, Jakarta Barat 11840',
   workshopAddress: 'Kawasan Pergudangan Era Prima Blok D3, Batuceper, Kota Tangerang',
